@@ -25,5 +25,3 @@ This repository contains my homework, labs, and projects from the **NYU Tandon D
 - Google Colab & Jupyter Notebook  
 
 ---
-
-More weekly assignments will be added as the Bootcamp progresses.
